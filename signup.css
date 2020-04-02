@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+}
+.icons{
+    margin: 0 30px;
+    padding: 0 6px;
+    
+    
+}
+.icons i:hover{
+    transform: scale(1.1);
+    
+    
+}
+.fa-facebook{
+    background: #3b5998;
+    color: white;
+    padding: 3px 5px 3px 15px;
+    border-radius: 2px;
+    font-size: 30px;
+}
+.fa-twitter{
+    background: #08a0e9;
+    color: white;
+    padding: 6px 8px;
+    border-radius: 50%;
+    font-size: 30px;
+}
+.fa-google-plus{
+    background: #db4437;
+    color: white;
+    padding: 10px 8px;
+    border-radius: 50%;
+    font-size: 25px;
+}
